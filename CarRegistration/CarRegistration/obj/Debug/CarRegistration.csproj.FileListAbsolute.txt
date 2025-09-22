@@ -1,0 +1,8 @@
+C:\Users\Felhasználó\source\repos\CarRegistration\CarRegistration\bin\Debug\CarRegistration.exe.config
+C:\Users\Felhasználó\source\repos\CarRegistration\CarRegistration\bin\Debug\CarRegistration.exe
+C:\Users\Felhasználó\source\repos\CarRegistration\CarRegistration\bin\Debug\CarRegistration.pdb
+C:\Users\Felhasználó\source\repos\CarRegistration\CarRegistration\obj\Debug\CarRegistration.csproj.AssemblyReference.cache
+C:\Users\Felhasználó\source\repos\CarRegistration\CarRegistration\obj\Debug\CarRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\source\repos\CarRegistration\CarRegistration\obj\Debug\CarRegistration.exe
+C:\Users\Felhasználó\source\repos\CarRegistration\CarRegistration\obj\Debug\CarRegistration.pdb
+C:\Users\Felhasználó\source\repos\CarRegistration\CarRegistration\obj\Debug\CarRegistration.exe.config
